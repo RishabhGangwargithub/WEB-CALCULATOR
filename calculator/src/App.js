@@ -27,7 +27,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>FULLY DYNAMIC SIMPLE WEB Calculator</h1>
+      <h1>FULLY DYNAMIC WEB Calculator</h1>
 
       <div className='container'>
         <form>
