@@ -27,7 +27,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>FULLY DYNAMIC WEB Calculator</h1>
+      <h1>FULLY DYNAMIC SIMPLE WEB Calculator</h1>
 
       <div className='container'>
         <form>
@@ -35,8 +35,8 @@ function App() {
         </form>
 
         <div className='keypad'>
-          <button onClick={clear} id='clear' className='highlight'>AC</button>
-          <button onClick={handleDelete} className='highlight'>DEL</button>
+          <button onClick={clear} id='clear' className='highlight'>CLEAR</button>
+          <button onClick={handleDelete} className='highlight'>DELETE</button>
           <button name='/' onClick={handleClick} className='highlight'>&divide;</button>
           <button name="7" onClick={handleClick}>7</button>
           <button name="8" onClick={handleClick}>8</button>
