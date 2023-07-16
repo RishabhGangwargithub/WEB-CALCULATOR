@@ -8,7 +8,7 @@ body{
   background-color:bisque;
 }
 h1 {
-  color: blue;
+  color: red;
 }
 
 .container {
@@ -63,5 +63,5 @@ button {
 }
 
 .highlight {
-  background-color: aqua;
+  background-color: yellow;
 }
